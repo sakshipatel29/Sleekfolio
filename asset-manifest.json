@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sleekfolio/static/css/main.fe927caf.css",
+    "main.js": "/Sleekfolio/static/js/main.472d2be4.js",
+    "static/js/787.4b24f717.chunk.js": "/Sleekfolio/static/js/787.4b24f717.chunk.js",
+    "static/media/sakshi.jpeg": "/Sleekfolio/static/media/sakshi.f5fe3c2d9eb0f903ea18.jpeg",
+    "index.html": "/Sleekfolio/index.html",
+    "main.fe927caf.css.map": "/Sleekfolio/static/css/main.fe927caf.css.map",
+    "main.472d2be4.js.map": "/Sleekfolio/static/js/main.472d2be4.js.map",
+    "787.4b24f717.chunk.js.map": "/Sleekfolio/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.472d2be4.js"
+  ]
+}
